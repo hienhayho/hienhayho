@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hi there 👋
+
+<h3 align="center">I am passionate about developing LLM-based applications and integrating them into diverse fields to create impactful solutions.</h3>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=hienhayho&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Github Streak
 
